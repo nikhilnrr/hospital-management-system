@@ -15,7 +15,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "mysql": "^2.18.1",
-    "nodemon": "^2.0.17",
+    "nodemon": "^2.0.20",
     "@snyk/protect": "latest"
   },
   "snyk": true
